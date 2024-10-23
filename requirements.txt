@@ -16,3 +16,7 @@ pandas
 pytest
 yunchang==0.3.1
 ring_flash_attn@git+https://github.com/zhuzilin/ring-flash-attention
+packaging
+ninja
+flash-attn
+torch>=2.4.0
